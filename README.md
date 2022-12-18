@@ -2,11 +2,11 @@
 The game I once did as homework.
 Movement scripts in this directory = /Assets/ProjectCars/Defender/Script/OrbitView.cs
 
-1. [From the game]
-![](/pictures/3DCarGameSS.PNG)
+1. From the game
+![](3DCarGame/pictures/3DCarGameSS.PNG)
 
-2. [Car image]
-![](/pictures/3DCarGameCar.PNG)
+2. Car image
+![](3DCarGame/pictures/3DCarGameCar.PNG)
 
-3. [Map image]
-![](/pictures/3DCarGameMap.PNG)
+3. Map image
+![](3DCarGame/pictures/3DCarGameMap.PNG)
